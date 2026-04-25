@@ -29,14 +29,6 @@ yarn.lock
 *.scss.map
 
 # ========================
-# Build output
-# ========================
-dist/
-build/
-public/css/
-public/js/
-
-# ========================
 # Environment
 # ========================
 .env
