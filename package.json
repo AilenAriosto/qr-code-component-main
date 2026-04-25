@@ -1,0 +1,35 @@
+{
+  "name": "qr-code-component-main",
+  "version": "1.0.0",
+  "description": "This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "homepage": "https://github.com/AilenAriosto/qr-code-component-main#readme",
+  "bugs": {
+    "url": "https://github.com/AilenAriosto/qr-code-component-main/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AilenAriosto/qr-code-component-main.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "del": "^6.1.1",
+    "gulp": "^5.0.1",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-notify": "^5.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-rename": "^2.1.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.99.0"
+  }
+}
